@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temporizador de Pedos</string>
+    <string name="action_settings">Configuración</string>
+    <string name="start_button_text">Iniciar</string>
+    <string-array name="farts_array">
+        <item>Corto</item>
+        <item>Corto2</item>
+        <item>Gracioso</item>
+        <item>Gracioso2</item>
+        <item>Liquido</item>
+        <item>Liquido2</item>
+        <item>Liquido3</item>
+        <item>Liquido4</item>
+        <item>Liquido5</item>
+        <item>Normal</item>
+        <item>Rebote</item>
+        <item>Rebote1</item>
+        <item>Rebote2</item>
+    </string-array>
+</resources>
